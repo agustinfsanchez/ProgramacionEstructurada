@@ -1,0 +1,9 @@
+function hayCumpleañosEn_(unaFecha)
+/*
+PROPÓSITO: Indica si en la fecha dada hay un cumpleaños de alguno
+de los creadores de Gobstones
+PARÁMETROS:
+* unaFecha : Fecha - La fecha de la cual saber si hay un cumpleaños
+TIPO: Booleano
+PRECONDICIÓN: Ninguna
+*/

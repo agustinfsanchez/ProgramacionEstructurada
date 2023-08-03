@@ -1,0 +1,10 @@
+type Puesto is variant {
+/*
+PROPÓSITO: Modelar los diferentes puestos que hay
+dentro de una empresa de software
+*/
+case GestorDeProyecto {}
+case LiderDeProyecto {}
+case Desarrollador {}
+case Operador {}
+}

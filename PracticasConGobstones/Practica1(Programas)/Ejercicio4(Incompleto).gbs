@@ -1,0 +1,22 @@
+program {
+Mover(Norte)
+Poner(Azul)
+}
+
+program {
+Poner(Azul)
+Mover(Este)
+Mover(Oeste)
+}
+
+program {
+Mover(Norte)
+Poner(Verde)
+Mover(Sur)
+}
+
+program {
+Poner(Azul)
+Mover(Norte)
+Mover(Sur)
+}

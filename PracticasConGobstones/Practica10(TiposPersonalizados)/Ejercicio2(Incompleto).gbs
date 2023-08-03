@@ -1,0 +1,9 @@
+function cantidadDeVotosDe_(unPartido)
+/*
+PROPÓSITO: Indica la cantidad de votos que recibió un partido.
+PARÁMETROS
+* unPartido: PartidoPolítico - El partido político del cual saber
+su cantidad de votos.
+TIPO: Número
+PRECONDICIÓN: Ninguna
+*/

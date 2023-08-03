@@ -1,0 +1,10 @@
+type Celda is record {
+/*
+PROPÓSITO: Modelar una celda del tablero
+INV.REP.: Los números son todos >=0
+*/
+field cantidadDeAzules // tipo: Número
+field cantidadDeNegras // tipo: Número
+field cantidadDeRojas // tipo: Número
+field cantidadDeVerdes // tipo: Número
+}
